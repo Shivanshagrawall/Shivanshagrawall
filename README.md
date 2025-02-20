@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/shivans30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivans30" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivansh-agrawal3007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivansh-agrawal3007" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@study_hard_dream_big" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@study_hard_dream_big" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@NextGen_CodeDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@study_hard_dream_big" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivansh_30-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivansh_30-" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shivanshagdmd5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivanshagdmd5" height="30" width="40" /></a>
 </p>
