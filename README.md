@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://shivanshagrawall.github.io/](https://shivanshagrawall.github.io/)
 
-- 📝 I regularly write articles on [https://x.com/Shivans30](https://x.com/Shivans30)
-
 - 💬 Ask me about **react mongodb node express python c c++ java**
 
 - 📫 How to reach me **shivanshagrawal3007@gmail.com**
@@ -21,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shivans30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivans30" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivansh-agrawal3007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivansh-agrawal3007" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@NextGen_CodeDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@study_hard_dream_big" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivansh_30-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivansh_30-" height="30" width="40" /></a>
